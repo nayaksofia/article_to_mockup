@@ -7,3 +7,25 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+* The skill I have learned:
+ 1.HTML Formatting Element:
+ <h1> to <h6>: the heading tag
+ <b>: Bold text
+ <i>: Italic text
+ <em>: Emphasize text
+ <mark>: Marked text
+ <del>: Delete text
+ <sub>: subscript text
+ <sup>: Superscript text
+
+ 2. Link in hTML:
+  <a href="http://www.03ibm.com">Link</a>
+ 3. <figure> 
+ <img src="http://www.sofia.com" alt="img">
+ <figcaption> MDN Logo </figcaption>
+   </figure>
+
+* It's easy to learn.
+* No, nothing is difficult here. Instead it's fun to learn here.
+* To overcome this challenge I followed the reference links provided on the Udacity Classroom and also followed the W3 School HTML .
+  
